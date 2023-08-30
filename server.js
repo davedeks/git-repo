@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = '127.0.0.1';
+const hostname = 'http://nodeproject3-nodeproject3.192.168.99.100.nip.io/';
 const port = 3000;
 
 const server = http.createServer((req, res) => {
